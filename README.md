@@ -2,4 +2,4 @@
 
 This is a React App example.
 
-🌎 [https://tours.pages.dev/](https://tours.pages.dev/)
+🌎 [https://reviews.pages.dev/](https://reviews.pages.dev/)
